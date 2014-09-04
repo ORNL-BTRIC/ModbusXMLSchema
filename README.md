@@ -1,4 +1,4 @@
-ModbusXMLSchema
+Modbus XML Schema
 ===============
 
 Modbus XML Schema Definition and utility software
